@@ -115,7 +115,7 @@ function emptyCart() {
 let totalPaid = 0;
 
 
-// Function to add money to the balance
+// Function to pay for products in cart
 function pay(amount) {
 
   totalPaid += amount;
